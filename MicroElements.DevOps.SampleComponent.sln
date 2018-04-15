@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroElements.DevOps.SampleComponent", "src\MicroElements.DevOps.SampleComponent\MicroElements.DevOps.SampleComponent.csproj", "{7CD498E9-608B-4D46-A57F-00B0ADFA126E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroElements.DevOps.SampleComponent.Tests", "test\MicroElements.DevOps.SampleComponent.Tests\MicroElements.DevOps.SampleComponent.Tests.csproj", "{403E0963-8A47-4241-A289-08C1EC55815B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CD498E9-608B-4D46-A57F-00B0ADFA126E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CD498E9-608B-4D46-A57F-00B0ADFA126E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CD498E9-608B-4D46-A57F-00B0ADFA126E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CD498E9-608B-4D46-A57F-00B0ADFA126E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{403E0963-8A47-4241-A289-08C1EC55815B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{403E0963-8A47-4241-A289-08C1EC55815B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{403E0963-8A47-4241-A289-08C1EC55815B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{403E0963-8A47-4241-A289-08C1EC55815B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD760707-5223-4097-AC3D-C4E825A285C3}
+	EndGlobalSection
+EndGlobal
